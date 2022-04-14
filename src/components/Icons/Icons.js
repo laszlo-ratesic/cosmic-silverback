@@ -66,8 +66,8 @@ export const ClockIcon = createIcon({
     </g>
   ),
 });
-export const CreativeTimLogo = createIcon({
-  displayName: "CreativeTimLogo",
+export const GastarLogo = createIcon({
+  displayName: "GastarLogo",
   viewBox: "0 0 100 100",
   path: (
     <g
